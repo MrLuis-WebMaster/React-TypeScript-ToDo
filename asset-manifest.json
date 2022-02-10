@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MrLuis-WebMaster/React-TypeScript-ToDo/static/css/main.cb15bf3c.css",
+    "main.js": "/MrLuis-WebMaster/React-TypeScript-ToDo/static/js/main.30942879.js",
+    "static/js/787.e46a2bb8.chunk.js": "/MrLuis-WebMaster/React-TypeScript-ToDo/static/js/787.e46a2bb8.chunk.js",
+    "index.html": "/MrLuis-WebMaster/React-TypeScript-ToDo/index.html",
+    "main.cb15bf3c.css.map": "/MrLuis-WebMaster/React-TypeScript-ToDo/static/css/main.cb15bf3c.css.map",
+    "main.30942879.js.map": "/MrLuis-WebMaster/React-TypeScript-ToDo/static/js/main.30942879.js.map",
+    "787.e46a2bb8.chunk.js.map": "/MrLuis-WebMaster/React-TypeScript-ToDo/static/js/787.e46a2bb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb15bf3c.css",
+    "static/js/main.30942879.js"
+  ]
+}
